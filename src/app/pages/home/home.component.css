@@ -41,7 +41,7 @@
 
 .list{
   margin-right: 55px;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: 'Inter', sans-serif;
   font-size: 17px;
 }
 
@@ -70,7 +70,7 @@ button{
   align-items: center;
   font-size: 55px;
   font-weight:700;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: 'Inter', sans-serif;
 }
 
 .header-mid{
@@ -80,7 +80,7 @@ button{
   align-items: center;
   font-size: 45px;
   font-weight:700;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: 'Inter', sans-serif;
   color:#4F4F4F;
 
 }
@@ -92,7 +92,7 @@ button{
   align-items: center;
   font-size: 15px;
   font-weight:700;
-  font-family:'Times New Roman', Times, serif;
+  font-family:'Inter', sans-serif;
 }
 
 .text-mid{
@@ -102,7 +102,7 @@ button{
   align-items: center;
   font-size: 15px;
   font-weight:700;
-  font-family:'Times New Roman', Times, serif;
+  font-family:'Inter', sans-serif;
   color:#4F4F4F;
 }
 
@@ -166,7 +166,7 @@ button{
   align-items: center;
   font-size: 45px;
   font-weight:700;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: 'Inter', sans-serif;
   color:white
 }
 
@@ -177,7 +177,7 @@ button{
   align-items: center;
   font-size: 15px;
   font-weight:700;
-  font-family:'Times New Roman', Times, serif;
+  font-family:'Inter', sans-serif;
   color:white;
 }
 
@@ -196,7 +196,7 @@ button{
   align-items: center;
   font-size: 20px;
   font-weight:700;
-  font-family:'Times New Roman', Times, serif;
+  font-family:'Inter', sans-serif;
   color:white;
   margin-top: 50px;
 }
